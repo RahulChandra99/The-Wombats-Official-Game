@@ -8,14 +8,14 @@
 <br>Run, dodge and get points for swiping up and down at the right time.
   
  
-<a href="https://www.rahulchandraportfolio.com/tikkytokkydropgame" target="_blank"><img src="./src/Icon.png" alt="demo"></a>
+<a href="https://www.rahulchandraportfolio.com/thewombatsofficialgame" target="_blank"><img src="./src/Icon.png" alt="demo"></a>
   
   </div>
   
   <div align="center">
   
- <a href="https://play.google.com/store/apps/details?id=com.begames.tikkytokkydropgame&hl=en-UK" target="_blank"><img src="./src/PlayStore.png" alt="demo" width="150" 
-     height="50"></a> &nbsp;  &nbsp;    <a href="https://apps.apple.com/gb/app/tikkytokky-drop-game/id6443832970" target="_blank"><img src="./src/AppStore.png" alt="demo" width="150" height="50"></a>
+ <a href="https://play.google.com/store/apps/details?id=com.begames.thewombats&hl=en-UK" target="_blank"><img src="./src/PlayStore.png" alt="demo" width="150" 
+     height="50"></a> &nbsp;  &nbsp;    <a href="https://apps.apple.com/gb/app/the-wombats-official-game/id1616417200" target="_blank"><img src="./src/AppStore.png" alt="demo" width="150" height="50"></a>
   
   </div>
   
@@ -38,4 +38,4 @@
 
 <br>
 
-<h1 align = "center">Code Architecture</h2>
+
